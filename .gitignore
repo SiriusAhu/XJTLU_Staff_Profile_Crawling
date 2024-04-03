@@ -1,5 +1,4 @@
 output
 .cache
 __pycache__
-# 以.cache开头的所有文件夹
 .cache_*
