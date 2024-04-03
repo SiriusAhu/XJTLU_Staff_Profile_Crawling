@@ -11,7 +11,7 @@ This project is to crawl all the staff profiles of XJTLU and save them in local 
 Just download the `csv` and `xlsx` files in `Release`.
 
 ### I want to run the scripts by myself
-1. Clone this repository.
+1. Clone this repository: `git clone https://github.com/SiriusAhu/XJTLU_Staff_Profile_Crawling`
 2. Install the required packages by running `pip install -r requirements.txt`.
 3. Run the first script to get a list of staff name to profile links by running `python get_name2url.py`.
 4. Run the second script to get the staff profiles by running `python get_name2info.py`.
